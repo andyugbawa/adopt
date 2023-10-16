@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body{
+    background-color: rgb(161, 180, 180);
+}
+
 .bang{
     color: red;
     text-align: center;
