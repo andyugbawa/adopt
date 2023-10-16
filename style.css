@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.bang{
+    color: red;
+    text-align: center;
+}
+.flow{
+    font-size: 20px;
+    padding: 10px 0px 0 0px;
+    text-align: center;
+}
+.dash{
+    padding: 20px 0px 0 60px;
+    display: block;
+    margin: 0 auto;
+}
