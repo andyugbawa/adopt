@@ -29,7 +29,7 @@ async function dogData(){
     const response = await fetch(dogImage);
     const data = await response.json();
     console.log(data)
-    for(let i= 0; i<2; i++){
+    for(let i= 0; i<1; i++){
         let dogflag = document.createElement('img');
         dogflag.classList.add('dash')
         dogflag.src = data.message;
